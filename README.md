@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
-**alexiidev/alexiidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alex or Alexii here!, __aspiring__ **Swedish Fullstack Developer**. My journey has just started but is far from over. There isn't anything special here yet but who knows what I'll build.
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
