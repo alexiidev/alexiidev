@@ -6,4 +6,4 @@ I'm **Alex or Alexii** (he/him), an aspiring swedish fullstack developer. My jou
 
 ##
 [![Hemsida](https://shields.io)](https://din-webbplats.com)
-[![GitHub](https://shields.io/github.png)](https://github.com)
+[![GitHub](https://shields.io/github)](https://github.com)
