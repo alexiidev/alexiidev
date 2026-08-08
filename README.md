@@ -5,4 +5,4 @@ I'm **Alex or Alexii** (he/him), an aspiring swedish fullstack developer. My jou
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ##
-[![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://alexii.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://alexii.dev/)
