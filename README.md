@@ -7,4 +7,4 @@ I'm **Alex or Alexii** (he/him), an aspiring swedish fullstack developer. My jou
 ##
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://alexii.dev/)
 
-[![Discord](https://img.shields.io/badge/Discord-blue?logo=discord)](https://dsc.gg/foxivale)
+[![Discord](https://img.shields.io/badge/-Discord-blue?logo=discord)](https://dsc.gg/foxivale)
