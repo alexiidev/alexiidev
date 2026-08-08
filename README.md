@@ -1,6 +1,6 @@
 ## Hey there!
 
-**[Alex or Alexii]** ([he/him]) -!, __aspiring__ **Swedish Fullstack Developer**. My journey has just started but is far from over. There isn't anything special here yet but who knows what I'll build.
+**[Alex or Alexii]** ([he/him]) -!, __aspiring__ Swedish **Fullstack** Developer. My journey has just started but is far from over. There isn't anything special here yet but who knows what I'll build.
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
