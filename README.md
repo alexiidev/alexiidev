@@ -4,3 +4,6 @@ I'm **Alex or Alexii** (he/him) -!, an aspiring swedish fullstack developer. My 
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind)](https://skillicons.dev)
 
+![Mina GitHub-stats](https://vercel.app)
+
+
